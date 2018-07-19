@@ -14,4 +14,5 @@ This is even better than the first subject because it is one higher than that on
 
    wiifm
    lesson1
+   lesson2
    bestpractices
