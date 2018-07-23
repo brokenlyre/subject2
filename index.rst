@@ -16,3 +16,5 @@ This is even better than the first subject because it is one higher than that on
    lesson1
    lesson2
    bestpractices
+
+there are good lessons but make sure to check out :ref:`subject1_lesson1_Example1` for the best example.
